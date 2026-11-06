@@ -28,7 +28,7 @@ import com.kuaima.app.domain.academy.model.AcademyModels.UploadResponse;
 import com.kuaima.app.domain.academy.service.AcademyAdminService;
 import com.kuaima.app.security.model.LoginUser;
 
-/** 管理后台学堂内容管理。 */
+/** 管理后台学堂内容管理。1 */
 @RestController
 @RequestMapping("/admin/academy")
 @Tag(name = "后台-学堂管理", description = "模拟接单视频、答题题库和新手课程管理")
